@@ -8,3 +8,5 @@ Avec un ensemble de variables explicatives (de contexte et d'opinion), notre dé
 Ensuite, nous avons mis en œuvre **une régression logistique**, afin de modéliser la relation entre la probabilité de vote et les variables explicatives sélectionnées.
 
 Enfin, nous avons construit **un réseau bayésien** pour représenter de manière explicite les dépendances probabilistes entre nos variables.
+
+Projet réalisé en : <a href="https://www.python.org"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> </p>
